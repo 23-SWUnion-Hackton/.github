@@ -5,13 +5,10 @@
 과학기술정보통신부장관상 수상
 <br>
 
-![image](https://github.com/23-SWUnion-Hackton/.github/assets/102154824/5a84889e-3845-4398-8b4c-1ef55f947931)
-
 <br>
 
 ## 프로젝트 정보
-
-[팀 정보 노션 링크]([https://storm-eel-800.notion.site/5-4-f5b22c5a0a9845c5b577cebfba1033ec](https://chipped-isthmus-7dc.notion.site/f4e2ef57e0ed4ecd8903f3543a79fa7c?pvs=4))
+[팀 정보 노션 링크](https://chipped-isthmus-7dc.notion.site/f4e2ef57e0ed4ecd8903f3543a79fa7c?pvs=4)
 
 ## 시연 영상
 
