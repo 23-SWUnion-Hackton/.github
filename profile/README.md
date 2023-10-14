@@ -11,7 +11,7 @@
 
 ## 프로젝트 정보
 
-[팀 정보 노션 링크](https://storm-eel-800.notion.site/5-4-f5b22c5a0a9845c5b577cebfba1033ec)
+[팀 정보 노션 링크]([https://storm-eel-800.notion.site/5-4-f5b22c5a0a9845c5b577cebfba1033ec](https://chipped-isthmus-7dc.notion.site/f4e2ef57e0ed4ecd8903f3543a79fa7c?pvs=4))
 
 ## 시연 영상
 
